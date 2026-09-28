@@ -1,0 +1,9 @@
+node_modules/
+dist/
+release/
+playwright-report/
+test-results/
+tsconfig.tsbuildinfo
+.DS_Store
+.env*
+!.env.example
